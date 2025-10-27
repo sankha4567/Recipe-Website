@@ -7,7 +7,7 @@ Built with React + Vite + TailwindCSS, it allows searching, viewing full recipes
 
 - **DeepWiki Documentation**: [https://deepwiki.com/sankha4567/Recipe-Website](https://deepwiki.com/sankha4567/Recipe-Website)
 - **ChatGPT Conversation**: [https://chatgpt.com/share/68ffc23a-ae6c-800d-b40f-b9516f435aa4](https://chatgpt.com/share/68ffc23a-ae6c-800d-b40f-b9516f435aa4)
-- **Live Video Demo**: [https://drive.google.com/file/d/1zaQ1KcRdUP5xKBBMHQwcCmG3t8puX27u/view](https://drive.google.com/file/d/1zaQ1KcRdUP5xKBBMHQwcCmG3t8puX27u/view)
+- **Live Video Demo**: [https://www.awesomescreenshot.com/video/45724650?key=141a42beeacd64cc192ab263a43082b5](https://www.awesomescreenshot.com/video/45724650?key=141a42beeacd64cc192ab263a43082b5)
 
 ## ✨ Features
 
