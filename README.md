@@ -43,7 +43,7 @@ LocalStorage (to persist favorites)
 Installation & Setup
 
 Clone the Repository
-git clone https://github.com/yourusername/recipe-idea.git
+git clone https://github.com/sankha4567/Recipe-Website
 
 cd recipe-idea
 
